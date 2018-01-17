@@ -1,4 +1,4 @@
-##Drone plugin for notification on Microsoft Teams
+Drone plugin for notification on Microsoft Teams
 
 Sample drone.yml content for notification  
 ```yaml
